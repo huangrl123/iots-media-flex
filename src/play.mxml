@@ -3,7 +3,8 @@
 			   xmlns:s="library://ns.adobe.com/flex/spark"
 			   xmlns:mx="library://ns.adobe.com/flex/mx"
 			   minWidth="955"
-			   minHeight="600">
+			   minHeight="600"
+			   applicationComplete="playPerception()">
 
 	<fx:Script source="com/dahuang/iots/flex/media/controller/PlayPerceptionController.as"/>
 
